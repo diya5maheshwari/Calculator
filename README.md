@@ -11,7 +11,7 @@ Key Features:
 - Keyboard support* (optional, for enhanced UX)  
 
 Tech Stack:  
-- Frontend:* HTML5 (semantic structure), CSS3 (Flexbox/Grid for layout), JavaScript (DOM manipulation, arithmetic logic)  
+- Frontend: HTML5 (semantic structure), CSS3 (Flexbox/Grid for layout), JavaScript (DOM manipulation, arithmetic logic)  
 
 A practical project to master DOM events, state management, and UI design.  
 
